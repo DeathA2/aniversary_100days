@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993234254136",
+    "project_id": "anniversary-b4407",
+    "storage_bucket": "anniversary-b4407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993234254136:android:19c8b618c9009fd37629cd",
+        "android_client_info": {
+          "package_name": "com.example.aniversary_100days"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993234254136-366hbhs7qjnof279hnv0egjii7imk81s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXJ-YxBMW675E-yQs67GAEx8-oZiDv2fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993234254136-366hbhs7qjnof279hnv0egjii7imk81s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
