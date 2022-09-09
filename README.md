@@ -1,16 +1,10 @@
 # aniversary_100days
 
-A new Flutter project.
+Đây là dự án cá nhân của bản thân mình.
+App dùng để kỷ niệm 100 ngày quen nhau của mình và người yêu.
+Vì lý do đó, source code khi chạy vẫn được nhưng sẽ không truy cập vào sâu được phần chính của app.
 
-## Getting Started
+## Link Download
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dưới đây là link để download app nếu bạn muốn xem thử.
+https://onedrive.live.com/download?cid=A1A360109B4309F7&resid=A1A360109B4309F7%2112450&authkey=AANrBK8ObrW691Y
